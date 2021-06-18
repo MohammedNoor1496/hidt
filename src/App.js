@@ -1,9 +1,11 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Navbar  } from './component/Navbar';
 function App() {
   return (
-   <h1>dpflkspfdkspdfk</h1>
-  );
+
+    <Navbar/>
+    );
 }
 
 export default App;
